@@ -8,6 +8,24 @@ The dashboard provides interactive insights into patient visits, departmental pe
 
 ---
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](screenshots/overview_dashboard.png)
+
+### Operational Efficiency Analysis
+![Operational Efficiency](screenshots/operational_efficiency.png)
+
+### Treatment Cost Analysis
+![Treatment Cost Analysis](screenshots/treatment_cost_analysis.png)
+
+### Patient Care Analysis
+![Patient Care Analysis](screenshots/patient_care_analysis.png)
+
+### Revenue Analysis
+![Revenue Analysis](screenshots/revenue_analysis.png)
+
+
 ## Business Problem
 
 Healthcare organizations generate large volumes of operational and patient-related data. Without proper analysis, identifying inefficiencies, revenue opportunities, and quality-of-care issues becomes difficult.
@@ -169,7 +187,7 @@ Key Finding:
 1. Data Collection
 2. Data Cleaning using Python
 3. Data Validation
-4. Data Modeling
+4. Data Preparation and Transformation
 5. Dashboard Development in Power BI
 6. Insight Generation
 7. Business Recommendations
