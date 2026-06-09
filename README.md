@@ -11,19 +11,19 @@ The dashboard provides interactive insights into patient visits, departmental pe
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/overview_dashboard.png)
+![Executive Overview](Screenshots/overview_dashboard.png)
 
 ### Operational Efficiency Analysis
-![Operational Efficiency](screenshots/operational_efficiency.png)
+![Operational Efficiency](Screenshots/operational_efficiency.png)
 
 ### Treatment Cost Analysis
-![Treatment Cost Analysis](screenshots/treatment_cost_analysis.png)
+![Treatment Cost Analysis](Screenshots/treatment_cost_analysis.png)
 
 ### Patient Care Analysis
-![Patient Care Analysis](screenshots/patient_care_analysis.png)
+![Patient Care Analysis](Screenshots/patient_care_analysis.png)
 
 ### Revenue Analysis
-![Revenue Analysis](screenshots/revenue_analysis.png)
+![Revenue Analysis](Screenshots/revenue_analysis.png)
 
 
 ## Business Problem
